@@ -18,3 +18,13 @@ Search "ffmpgeg" in https://brew.sh/ and copy the command or using this command
 ## 4) To convert .mov to .mp4, using the following line
 
 `ffmpeg -i input.mov -vcodec copy -acodec copy output.mp4`
+
+
+### References
+
+- https://imagemagick.org/script/download.php
+- http://paulbourke.net/miscellaneous/ffmpeg/
+- https://www.youtube.com/watch?v=nmrjRqEIgGc&ab_channel=DavidHelmuth
+- https://brew.sh/
+- https://formulae.brew.sh/formula/ffmpeg#default
+- https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg
